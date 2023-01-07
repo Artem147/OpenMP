@@ -1,0 +1,8 @@
+﻿  Source.cpp
+  Source1.cpp
+C:\Users\Shirkunov\source\repos\OpenMP\OpenMP\Source1.cpp(43,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Shirkunov\source\repos\OpenMP\OpenMP\Source1.cpp(45,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Shirkunov\source\repos\OpenMP\OpenMP\Source1.cpp(78,35): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Shirkunov\source\repos\OpenMP\OpenMP\Source1.cpp(53,15): warning C4101: k: неиспользованная локальная переменная
+  Создание кода...
+  OpenMP.vcxproj -> C:\Users\Shirkunov\source\repos\OpenMP\x64\Debug\OpenMP.exe
